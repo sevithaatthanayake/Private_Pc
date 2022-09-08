@@ -1,0 +1,21 @@
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\bin\Debug\PrivatePC.exe.config
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\bin\Debug\PrivatePC.exe
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\bin\Debug\PrivatePC.pdb
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.csprojResolveAssemblyReference.cache
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.Form1.resources
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.Properties.Resources.resources
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.csproj.GenerateResource.Cache
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.exe
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.pdb
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.Large_Sheet.resources
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.LargeSheet.resources
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.Locker.resources
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.Sheet1.resources
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.Sheet2.resources
+C:\Users\Isuru\Desktop\SmartClass\PrivatePC\PrivatePC\obj\Debug\PrivatePC.Sheet3.resources
+C:\Users\Isuru\Desktop\C# Applications\PrivatePC\PrivatePC\bin\Debug\PrivatePC.exe.config
+C:\Users\Isuru\Desktop\C# Applications\PrivatePC\PrivatePC\obj\Debug\PrivatePC.exe
+C:\Users\Isuru\Desktop\C# Applications\PrivatePC\PrivatePC\obj\Debug\PrivatePC.pdb
+D:\sevitha\C# Applications\PrivatePC\PrivatePC\bin\Debug\PrivatePC.exe.config
+D:\sevitha\C# Applications\PrivatePC\PrivatePC\obj\Debug\PrivatePC.exe
+D:\sevitha\C# Applications\PrivatePC\PrivatePC\obj\Debug\PrivatePC.pdb
